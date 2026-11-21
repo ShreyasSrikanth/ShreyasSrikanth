@@ -8,7 +8,7 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
-  Hi <𝚍𝚎𝚟𝚜/>, I'm Shreyas
+  Hi <𝚍𝚎𝚟𝚜/>, I'm Shreyas Srikanth
 </h1>
 
 <h3 align="center">
